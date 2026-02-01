@@ -31,5 +31,3 @@ The game creates tension and suspense as the player progresses, making it a thri
 - **Language:** C++  
 - **Platform:** Console / Terminal  
 - **IDE:** Any C++ supported IDE (Dev-C++, Code::Blocks, Visual Studio, etc.)
-
----
